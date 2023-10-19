@@ -12,8 +12,10 @@ const styles = StyleSheet.create({
     display: {
         flex: 1,
         padding: 20,
+        paddingTop:180,
+        paddingRight:30,
         justifyContent: 'center',
-        backgroundColor: '#808080',
+        backgroundColor: '#080404',
         alignItems: 'flex-end'
     },
     displayValue: {
